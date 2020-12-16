@@ -5,5 +5,5 @@ Didalam program ini setiap Logic untuk  nominal, persen dan cashback terdapat cl
 sendiri gunannya agar ketika memodifikasi satu logic tidak perlu memodifikasi seluruh logic
 
 ## 3. Class Diagram 
-### Coupon Without OCP
+### Coupon With OCP
 ![alt text](https://github.com/MTYU-Luki/CouponWithOCP/blob/master/ClassDiagram1.png)
